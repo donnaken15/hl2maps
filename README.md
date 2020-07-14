@@ -6,8 +6,8 @@
 | Map                            | BSP                                   | VMF                                   |
 |:-------------------------------|:-------------------------------------:|:-------------------------------------:|
 | Minecraft CTF                  |  [??? bytes]()                        |  [??? bytes]()                        |
-| Staircase                      |  [??? bytes]()                        |  [??? bytes]()                        |
-| Wolfenstein 3D                 |  [??? bytes]()                        |  [??? bytes]()                        |
+| Staircase CTF                  |  [??? bytes]()                        |  [??? bytes]()                        |
+| Wolfenstein E1M1               |  [??? bytes]()                        |  [??? bytes]()                        |
 | Adventure CTF                  |  [??? bytes]()                        |  [??? bytes]()                        |
 | Track & Field                  |  [??? bytes]()                        |  [??? bytes]()                        |
 
