@@ -7,16 +7,16 @@
 |:-------------------------------|:-------------------------------------:|:-------------------------------------:|
 | Minecraft CTF                  |  [??? bytes]()                        |  [??? bytes]()                        |
 | Staircase CTF                  |  [??? bytes]()                        |  [??? bytes]()                        |
+| Track & Field                  |  [??? bytes]()                        |  [??? bytes]()                        |
 | Wolfenstein E1M1               |  [??? bytes]()                        |  [??? bytes]()                        |
 | Adventure CTF                  |  [??? bytes]()                        |  [??? bytes]()                        |
-| Track & Field                  |  [??? bytes]()                        |  [??? bytes]()                        |
 
 ## Counter-Strike (Global Offensive)
 
 | Map                            | BSP                                   | VMF                                   |
 |:-------------------------------|:-------------------------------------:|:-------------------------------------:|
 | Basketball                     |  [??? bytes]()                        |  [??? bytes]()                        |
-| Maze.                          |  [??? bytes]()                        |  [??? bytes]()                        |
+| Maze                           |  [??? bytes]()                        |  [??? bytes]()                        |
 | Final Rush                     |  [??? bytes]()                        |  [??? bytes]()                        |
 |                                |  [??? bytes]()                        |  [??? bytes]()                        |
 
